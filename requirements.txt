@@ -1,0 +1,10 @@
+numpy>=1.24
+opencv-python-headless>=4.8
+scikit-image>=0.21
+scipy>=1.10
+networkx>=3.0
+matplotlib>=3.7
+Pillow>=10.0
+sympy>=1.12
+streamlit>=1.30
+pytest>=7.0
